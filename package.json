@@ -30,5 +30,7 @@
   "bugs": {
     "url": "https://github.com/acarl005/join-monster-graphql-tools-adapter/issues"
   },
-  "homepage": "https://github.com/acarl005/join-monster-graphql-tools-adapter#readme"
+  "homepage": "https://github.com/acarl005/join-monster-graphql-tools-adapter#readme",
+  "dependencies": {},
+  "devDependencies": {}
 }
