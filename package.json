@@ -30,13 +30,5 @@
   "bugs": {
     "url": "https://github.com/acarl005/join-monster-graphql-tools-adapter/issues"
   },
-  "homepage": "https://github.com/acarl005/join-monster-graphql-tools-adapter#readme",
-  "peerDependencies": {
-    "graphql-tools": "*",
-    "join-monster": "*"
-  },
-  "devDependencies": {
-    "eslint": "^3.17.1",
-    "sqlite": "^2.3.0"
-  }
+  "homepage": "https://github.com/acarl005/join-monster-graphql-tools-adapter#readme"
 }
